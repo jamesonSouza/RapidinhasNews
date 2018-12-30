@@ -1,4 +1,5 @@
-#Aplicativos de noticias
+# Aplicativos de noticias
+
 App de noticias desenvolvido em dart  com flutter  cosumo de api 
 
 ## Getting Started
