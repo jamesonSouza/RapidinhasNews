@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "170430565070",
+    "firebase_url": "https://noticianew-c4fca.firebaseio.com",
+    "project_id": "noticianew-c4fca",
+    "storage_bucket": "noticianew-c4fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170430565070:android:d475460f99833517",
+        "android_client_info": {
+          "package_name": "br.com.jmsapplay.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170430565070-08v04sn6q8r5moggsn1q3qrqgtotpj06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9qKyBZnZ6N1LQqVYQ3XnHbiVS0NwybM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9275202133724780~3062862014"
+    }
+  ],
+  "configuration_version": "1"
+}
